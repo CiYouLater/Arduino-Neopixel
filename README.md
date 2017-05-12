@@ -1,4 +1,4 @@
-# Arduino Neopixel
+# Arduino Neopixel MSGEQ7 For Music
 
 Using an Arduino with a Neopixel RGB LED strip(60) to create patterns.
 Utilizes MSGEQ7 Graphic Equalizer Display Filter to seperate sound into 7 frequency ranges.
@@ -22,9 +22,10 @@ https://www.arduino.cc/en/Main/Software
 Pictures to be shown soon
 ```
 
-### Examples pattern gifs
+### Examples patterns
 ```
-Pictures to be shown soon
+Pattern Color Loop Progression to Music:   
+https://www.youtube.com/watch?v=D-76HCIZhXI&feature=youtu.be
 ```
 
 ## License
