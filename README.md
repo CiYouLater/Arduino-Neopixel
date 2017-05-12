@@ -25,7 +25,7 @@ Pictures to be shown soon
 ### Examples patterns
 ```
 Pattern Color Loop Progression to Music:   
-[![](http://img.youtube.com/vi/D-76HCIZhXI/0.jpg)](https://www.youtube.com/watch?v=D-76HCIZhXI&feature=youtu.be)
+<a href="https://www.youtube.com/watch?v=D-76HCIZhXI&feature=youtu.be" target="_blank"><img src="http://img.youtube.com/vi/D-76HCIZhXI/0.jpg"  width="240" height="180" border="10" /></a>
 ```
 
 ## License
